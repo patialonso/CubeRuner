@@ -8,7 +8,7 @@ Cube Runner is a simple and fun 3D runner game created in Unity where you contro
 - Try to survive as long as possible and beat your high score.
 
 ## Built With
-- Unity [Insert the Unity version you used, like Unity 2021.3.10f1]
+- Unity
 
 ## Getting Started
 1. Clone or download this repository.
